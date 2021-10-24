@@ -1,0 +1,21 @@
+{
+    "name": "raven-theme",
+    "displayName": "raven-theme",
+    "description": "theme raven",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "raven",
+                "uiTheme": "vs-dark",
+                "path": "./themes/raven-color-theme.json"
+            }
+        ]
+    }
+}
