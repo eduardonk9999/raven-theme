@@ -8,6 +8,16 @@
 		"sideBarTitle.foreground": "#bbbbbb",
 		"sideBar.background": "#0D060E",
 		"minimap.background": "#140515",
+		"dropdown.background": "#240F52",
+		"toolbar.hoverBackground": "#240F52",
+		"progressBar.background":"#240F52",
+		"input.background": "#240F52",
+		
+		"list.activeSelectionBackground": "#0C0E18",
+		"list.activeSelectionForeground": "#FFF",
+		"list.activeSelectionIconForeground":"#FFF"
+		
+
 		
 		
 		
